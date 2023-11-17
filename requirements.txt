@@ -1,0 +1,8 @@
+requests
+colorama
+random
+phonenumbers
+webbrowser
+os
+wget
+pyshorteners
