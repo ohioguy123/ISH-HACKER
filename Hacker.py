@@ -17,7 +17,6 @@ Cy='\033[1;36m'
 Wh='\033[1;37m'
 
 os.system('clear')
-os.system('cls')
 stderr.writelines(f"""{Gr}
 
 
@@ -44,7 +43,6 @@ input_user = input(f'\n   {Wh}@ISH-HACKER😎~# {Gr}')
 
 if input_user == '1': #OPSI 1
     os.system('clear')
-    os.system('cls')
     time.sleep(1)
     stderr.writelines(f"""{Wh}
      
@@ -109,7 +107,6 @@ ___________                     __
 
 elif input_user == '2':  
     os.system('clear')
-    os.system('cls')
     time.sleep(1)
     stderr.writelines(f"""{Wh}
 
@@ -134,7 +131,6 @@ elif input_user == '2':
 
 elif input_user == '3':
     os.system('clear') 
-    os.system('cls')
     time.sleep(1)
     stderr.writelines(f"""{Wh}
 
